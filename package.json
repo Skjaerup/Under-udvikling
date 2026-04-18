@@ -1,0 +1,9 @@
+{
+  "name": "under-udvikling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal side til deployment af en under-udvikling landingsside",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
