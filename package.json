@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "Minimal side til deployment af en under-udvikling landingsside",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "start": "node server.js"
   }
